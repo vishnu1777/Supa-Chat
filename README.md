@@ -1,3 +1,16 @@
+```
+Developed for personal usage and for learning purpose
+
+View my application at : https://supa-chat.netlify.app
+
+For Login Credential use
+
+UserName: Dummy
+Password: 1234
+
+
+````
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
